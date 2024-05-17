@@ -1,0 +1,10 @@
+.body{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+
+}
+#div_product_list{
+    display: grid;
+    grid-template-columns: repeat(4, 15rem);
+    grid-template-rows: repeat(5, 1fr);
+}
